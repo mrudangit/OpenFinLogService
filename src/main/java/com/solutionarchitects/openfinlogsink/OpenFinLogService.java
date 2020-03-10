@@ -54,7 +54,7 @@ public class OpenFinLogService {
 
 
 
-        logger.info("Log For {} Desktop ID : {} App Name : {} AppConfigUrl : {} CloseReasion : {} AppSessionId : {} RunTimeVersion : {} RvmVersion : {} ",
+        logger.info("Log For {} Desktop ID : {} App Name : {} AppConfigUrl : {} CloseReason : {} AppSessionId : {} RunTimeVersion : {} RvmVersion : {} ",
                 UserName, desktopId, appName, appConfigUrl, closeReason, appSessionId, runtimeVersion, rvmVersion);
 
 
